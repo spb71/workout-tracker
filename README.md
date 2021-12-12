@@ -1,5 +1,7 @@
 # Fitness.Tracker
 
+[![MIT license](https://img.shileds.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 For this assignment, the app is a fitness tracker. The fitness tracker allows the user to create a workout where they enter various exercise associated to the workout. The data can then be analyzed with an included stats page that provides insights into the details of all their workouts. In this homework assignment, the challenge is to connect the included fronted with backend that is to be built using MongoDB, Mongoose and Express.
 
 ## Table of Contents
@@ -56,17 +58,6 @@ A demo of the application is available at:
 ## License
 
 This project uses the MIT license
-
-## Contributing
-
-Pull request are welcome
-**Home Page**
-
-**New Workout**
-
-**Add Exercise**
-
-**Stats**
 
 ## Author
 
