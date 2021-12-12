@@ -11,8 +11,7 @@ For this assignment, the app is a fitness tracker. The fitness tracker allows th
 - [Installation](#installation)
 - [Features](#features)
 - [License](#license)
-- [Contributing](#contributing)
-- [Screenshots](#screenshots)
+- [Link to Deployed Application](#application)
 - [Questions](#questions)
 
 ## Installation
@@ -58,6 +57,10 @@ A demo of the application is available at:
 ## License
 
 This project uses the MIT license
+
+## Application
+
+https://fathomless-plateau-97517.herokuapp.com/
 
 ## Author
 
